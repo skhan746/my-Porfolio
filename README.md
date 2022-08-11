@@ -1,5 +1,12 @@
 # REACT.JS Personal website
 
+The following technologies were used to create this website:
+  -Visual Studio Code
+  -Javascript
+  -React.js
+  -Tailwind.css
+  
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
