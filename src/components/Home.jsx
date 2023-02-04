@@ -30,7 +30,7 @@ const Home = () => {
 
         
         
-            <div className='animate-bounce'>
+            <div className='animate-pulse'>
 
                 <div>
                     <img src= {HeroImage} 
